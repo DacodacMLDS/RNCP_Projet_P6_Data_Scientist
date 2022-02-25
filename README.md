@@ -39,7 +39,7 @@ Réalisation d'une première étude de faisabilité d'un moteur de classificatio
 
 - Répertoire "Notebooks":
   - fichier "functions_p6_project.py": fichier pour fonctions externes en Python
-  - fichier "P6_01_notebook.ipynb: fichier notebook Jupyter en Python pour le pré-traitement des données, la réduction de dimensions, le clustering et la représentation graphique des données
+  - fichier "P6_01_notebook.ipynb": fichier notebook Jupyter en Python pour le pré-traitement des données, la réduction de dimensions, le clustering et la représentation graphique des données
   
 - Répertoire "Soutenance":
   - fichier "P6_02_support_soutenance_ppt.ppt": fichier support soutenance projet Powerpoint
