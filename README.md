@@ -16,7 +16,7 @@ Linda, lead data scientist, vous demande donc d'étudier la faisabilité d'un mo
 
 <h2>But et intérêt du projet</h2>
 
-Réalisation d'une première étude de faisabilité d'un moteur de classification d'articles basé sur une image et une description pour l'automatisation de l'attribution de la catégorie de l'article, à partir des données suivante : https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip
+Réalisation d'une première étude de faisabilité d'un moteur de classification d'articles basé sur une image et une description pour l'automatisation de l'attribution de la catégorie de l'article, à partir des données suivantes : https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip
 
 - Analyse des données
 - Pré-traitement des descriptions de produit (approche NLP) et des images (SIFT, réseaux de neurones à convolution CNN VGG16 ResNet50)
